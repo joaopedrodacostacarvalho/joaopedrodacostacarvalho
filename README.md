@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=joaopedrodacostacarvalo&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Joao Pedro's GitHub Stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=joaopedrodacostacarvalho&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Joao Pedro's GitHub Stats" />
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedrodacostacarvalho&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Joao Pedro's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=joaopedrodacostacarvalho&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Joao Pedro's Most Used Languages" />
 </div>
