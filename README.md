@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,ts,nodejs,react,nextjs,postgres,typeorm" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,ts,nodejs,react,nextjs,postgres,typeorm" />
   <img src="https://skillicons.dev/icons?i=html,css,js,git,postman" />
 </p>
 
